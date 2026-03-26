@@ -60,6 +60,8 @@ Privacy (Optional NFR):
 User data is not stored permanently; only used in runtime for prediction.
 
 System Architecture (High-Level)
+
+```text
           ┌────────────────────┐
           │   User Input (CLI) │
           └─────────┬──────────┘
